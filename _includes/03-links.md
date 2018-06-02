@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Go to my GitHub profile](https://github.com/ediamin)
