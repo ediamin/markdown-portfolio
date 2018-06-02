@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- PHP
+- JavaScript
+
+1. One
+2. Two
