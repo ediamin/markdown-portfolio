@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Edi Amin
+### Learning Git and Github with [GitHub Learning Lab](https://lab.github.com/courses)
